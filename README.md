@@ -1,5 +1,5 @@
-I just wanna make "OBD2 SwiftUI Scanner App (based on bluetooth 4.0)
-If you have any knowledges of `OBD2` or `CAN-BUS` communication, please contact me.
+## I just wanna make "OBD2 SwiftUI Scanner App (based on bluetooth 4.0)
+### If you have any knowledges of `OBD2` or `CAN-BUS` communication, please contact me.
 EMAIL: itx.ljh.developer@gmail.com
 
 - Env.
