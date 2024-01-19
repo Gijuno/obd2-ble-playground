@@ -6,7 +6,7 @@ EMAIL: itx.ljh.developer@gmail.com
   - Xcode 15.2 (on MacOS 14.3)
   - Support upper IOS 17.0
   - INFOCAR(인포카)
-    - Model: [IO180-OH](https://infocarmobility.com/sub/io180_oh)https://infocarmobility.com/sub/io180_oh
+    - Model: [IO180-OH](https://infocarmobility.com/sub/io180_oh)
     - RV: 12V
   - Ipad 17.-
 
