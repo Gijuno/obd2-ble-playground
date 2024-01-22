@@ -8,6 +8,6 @@ EMAIL: itx.ljh.developer@gmail.com
   - INFOCAR(인포카)
     - Model: [IO180-OH](https://infocarmobility.com/sub/io180_oh)
     - RV: 12V
-  - Ipad 17.-
+  - Ipad Pro 3th 17.- (Celular and Wi-fi)
 
 I will try it with ELM327 - wifi model later..
